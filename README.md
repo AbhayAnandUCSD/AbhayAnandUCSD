@@ -1,10 +1,10 @@
 ## Hi, I'm Abhay Anand 👨‍💻
 
-🎓 Cognitive Science + Computer Science @ UC San Diego | Incoming M.S. in Data Science (2025–2026)<br/>
+🎓 Cognitive Science + Computer Science @ UC San Diego | Incoming M.S. in Data Science (2025–2027)<br/>
 🤖 Passionate about Machine Learning, Data Engineering, and AI-driven Automation<br/>
 🚗 Built gesture-controlled sEMG toy cars, NLP query interpreters, and autonomous driving agents in CARLA<br/>
 📁 Check out my [portfolio](https://abhayananducsd.github.io/Portfolio/)<br/>
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhayananducsd/)
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhayanand100/)
 
 ---
 
